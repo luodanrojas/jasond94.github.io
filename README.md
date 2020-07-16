@@ -4,10 +4,6 @@ downing.io
 Source code for my personal website. MIT Licensed. Contains a copy of my resume, 
 as well as some links to Github. :octocat:
 
-## Forking Note
-
-If you fork this repo, please change the **form action** to an email address you own before trying it out. [Thaaaanks!](https://i.imgur.com/TpBVEjv.jpg)
-
 ```
 <form action="https://formspree.io/luodanvrojas@gmail.com" method="POST" class="form-horizontal" role="form">
 ```
@@ -28,9 +24,6 @@ from [Start Bootstrap](http://startbootstrap.com/).
 The theme is also MIT Licensed.
 
 View it here: [downing.io](https://downing.io/)
-
-Check out some of my other webpages at 
-[github.com/JasonD94/](https://github.com/JasonD94/)
 
 ##### NOTE:
 
